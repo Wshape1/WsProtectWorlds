@@ -1,0 +1,17 @@
+name: WsProtectWorlds
+main: WsProtectWorlds\WMain
+load: POSTWORLD
+author: Wshape1
+version: 1.0.0
+api: 
+- 2.0.0
+- 3.0.0
+- 3.0.0-ALPHA1
+- 3.0.0-ALPHA2
+- 3.0.0-ALPHA3
+- 3.0.0-ALPHA4
+- 4.0.0
+
+commands:
+ wpw:
+  description: 世界保护主命令
